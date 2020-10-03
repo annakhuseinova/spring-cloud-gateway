@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-cloud-gateway
+
+server:
+  port: 8099
+
